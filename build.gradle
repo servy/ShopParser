@@ -4,7 +4,7 @@ apply plugin:'application'
 sourceCompatibility = 1.7
 version = '1.0'
 
-mainClassName = "com.samsung.itschool.shopparser.State"
+mainClassName = "ru.samsung.itschool.shopparser.State"
 
 run {
     standardInput = System.in

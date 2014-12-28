@@ -1,4 +1,4 @@
-package com.samsung.itschool.shopparser;
+package ru.samsung.itschool.shopparser;
 
 /**
  * Данный enum представляет собой список всех состояний конечного автомата для разбора строк вида
